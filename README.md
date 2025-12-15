@@ -68,7 +68,7 @@ This profile includes:
 
 ## 📫 Contact
 
-- GitHub: https://github.com/anomaly123  
+- GitHub: https://github.com/anomaly-ismail  
 - Open to collaboration, security research, and engineering opportunities
 
 ---
